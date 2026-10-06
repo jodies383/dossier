@@ -1,0 +1,1 @@
+A personal professional dossier built with React, Vite and Tailwind CSS. Styled as an interactive folder, it brings together my journey into software development, project experience, technical skills, qualifications and career goals.
