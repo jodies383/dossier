@@ -30,9 +30,7 @@ function DossierFrame({ activeSection, section }) {
           <div className="paper-content">
             <SectionContent sectionId={activeSection} />
           </div>
-          <footer className="paper-footer">
-            A record of what I have learned, built and am working towards.
-          </footer>
+       
         </article>
       </div>
     </main>

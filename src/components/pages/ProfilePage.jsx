@@ -8,7 +8,6 @@ function ProfilePage() {
         <header className="profile-intro">
           <h1 id="section-title">Jodie Solomons</h1>
           <p className="profile-role">Software Developer</p>
-          <p className="profile-lead">I learn by doing, and I enjoy having something tangible to show for what I've learned.</p>
         </header>
         <figure className="profile-portrait">
           <img src={portrait} alt="Portrait of Jodie Solomons" />
@@ -16,8 +15,9 @@ function ProfilePage() {
         </figure>
       </div>
       <div className="profile-story">
-        <p>My experience includes a coding bootcamp, workplace incubation, a web hosting internship and CAPACITI. I've contributed to web and mobile applications and become comfortable taking on a leadership role in my team.</p>
-        <p>JavaScript is the language I'm most comfortable with, and most of my experience is in frontend development. I bring a willingness to take responsibility and the determination to keep learning.</p>
+        <p>I’m a software developer who learns best by building. My strongest language is JavaScript, with frontend experience using React and contributions to web and mobile applications.</p>
+        <p>I enjoy turning everyday problems into useful tools. My route from au pairing into development has taken determination, self-learning and a willingness to try something unfamiliar. Through workplace experience and CAPACITI, I’ve also become comfortable taking on leadership responsibilities within a team.</p>
+        <p>I bring practical experience, curiosity and a commitment to keep improving, with the goal of becoming a developer people can depend on.</p>
       </div>
       <div className="profile-grid">
         <section className="profile-block">

@@ -53,7 +53,6 @@ function LearningPage() {
       <PageHeading
         eyebrow="Page 05 / Learning and growth"
         title="Learning and growth"
-        intro="Training gave me a foundation, and projects and workplace experience gave me opportunities to use it."
       />
       <section className="qualifications-section" aria-labelledby="qualifications-heading">
         <h2 className="subsection-title" id="qualifications-heading">Qualifications</h2>

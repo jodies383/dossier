@@ -50,8 +50,7 @@ function SkillsPage() {
     <>
       <PageHeading
         eyebrow="Page 04 / Technical skills"
-        title="My technical toolkit"
-        intro="JavaScript is my strongest language. My experience also includes frontend frameworks, databases, testing and working across different operating systems."
+        title="My technical skills"
       />
       <div className="skills-grid">
         {skillGroups.map((group, index) => (

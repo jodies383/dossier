@@ -32,8 +32,7 @@ function JourneyPage() {
     <>
       <PageHeading
         eyebrow="Page 02 / My journey"
-        title="A practical route into development"
-        intro="When I was ten, I wanted to be like Mark Zuckerberg. Struggling with Maths and Science made me think coding wasn't something I could do. I was working as an au pair when I decided to attend a coding bootcamp with no previous coding experience."
+        title="My journey into development"
       />
       <ol className="journey-list">
         {journeyStages.map((stage) => (
